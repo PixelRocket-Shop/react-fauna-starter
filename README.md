@@ -6,7 +6,7 @@ The Fauna Template is a clean and modern React template designed with the enviro
 
 This template is created using Tailwind CSS version 4 and React 18, offering a modern, component-based architecture with excellent performance and developer experience.
 
-> [Click here to view demo](https://react-faunaflora-full.vercel.app/)
+> [Click here to view demo](https://react-fauna-full.vercel.app/)
 
 > **Important:** You are currently viewing only the starter template, which includes only the homepage. The full template is available for free to users who are registered on my website and signed up to my mailing list.
 > [Click here to download the full template](https://pixelrocket.store/free-templates/react-templates/fauna-flora-tailwind-react-website-template)
@@ -30,7 +30,7 @@ This template is available in multiple frameworks:
 | Four Points | [<img src="https://pixelrocket-public-assets.s3.eu-west-2.amazonaws.com/github-assets/fourpoints.png" width="150">](https://react-fourpoints-full.vercel.app/) | [HTML](https://pixelrocket.store/free-templates/html-templates/four-points-tailwind-html-website-template) | [React](https://pixelrocket.store/free-templates/react-templates/four-points-tailwind-react-website-template) | [Next.js](https://pixelrocket.store/free-templates/nextjs-templates/four-points-tailwind-nextjs-website-template) |
 | Global Bank | [<img src="https://pixelrocket-public-assets.s3.eu-west-2.amazonaws.com/github-assets/globalbank.png" width="150">](https://react-globalbank-full.vercel.app/) | [HTML](https://pixelrocket.store/free-templates/html-templates/global-bank-tailwind-html-website-template) | [React](https://pixelrocket.store/free-templates/react-templates/global-bank-react-website-template) | [Next.js](https://pixelrocket.store/free-templates/nextjs-templates/global-bank-nextjs-website-template) |
 
-[![Template Image](https://pixelrocket-public-assets.s3.eu-west-2.amazonaws.com/github-assets/florafauna.png)](https://react-faunaflora-full.vercel.app/)
+[![Template Image](https://pixelrocket-public-assets.s3.eu-west-2.amazonaws.com/github-assets/florafauna.png)](https://react-fauna-full.vercel.app/)
 
 ## Pages
 - Homepage
